@@ -2,7 +2,7 @@ Summary:	PMDK pool conversion tool
 Summary(pl.UTF-8):	Narzędzie do konwersji puli PMDK
 Name:		pmdk-convert
 Version:	1.5
-Release:	1
+Release:	2
 License:	BSD
 Group:		Applications/System
 #Source0Download: https://github.com/pmem/pmdk-convert/releases
